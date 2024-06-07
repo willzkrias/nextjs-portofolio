@@ -26,6 +26,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
+        <li>Bunda Mulia University (Active)</li>
         <li>SMA NEGERI 1 MANADO</li>
       </ul>
     ),
